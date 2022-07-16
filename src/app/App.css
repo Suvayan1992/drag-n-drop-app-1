@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.card {
+  padding: 8px;
+  width: 250;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.selected{
+  background: lightblue;
+}
+
+.drged{
+  background: lightgreen;
+}
+
